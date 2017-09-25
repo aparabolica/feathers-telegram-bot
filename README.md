@@ -37,7 +37,7 @@ const app = feathers()
   // Needed for parsing bodies (login)
   .use(bodyParser.json())
   .use(bodyParser.urlencoded({ extended: true }))
-  // Initialize your feathers plugin
+  // Initialize Feathers Telegram Bot
   .use(telegramBot({
     username: "Your_Bot",
     token: "[your-token-here]"
