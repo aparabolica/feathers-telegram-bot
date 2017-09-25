@@ -1,7 +1,7 @@
 {
   "name": "feathers-telegram-bot",
   "description": "Connect your feathers app to a Telegram Bot",
-  "version": "0.0.1-3",
+  "version": "0.0.1-4",
   "homepage": "https://github.com/aparabolica/feathers-telegram-bot",
   "main": "lib/",
   "keywords": [
